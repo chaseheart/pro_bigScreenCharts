@@ -105,30 +105,3 @@ http://e-art.top/projects/bigScreenCharts
 4. chrome浏览器中为了阅读清晰，将小于12px的汉字字号限制到12px，这样可能造成字号没有随页面等比例变化，可能撑坏部分布局。解除最小字号限制的方法：浏览器设置-外观-自定义字体-最小字号(可能因版本不同路径有差别，可以在设置面板中搜索“最小字号”)，将滚动条拉到最小即可。
 5. chrome浏览器模拟移动端界面的方法：按F12打开控制台，点击左上角选取元素旁边的移动端图标，然后页面就被放在一个特定尺寸的容器中。可以看到设备列表中已经预置了一些手机型号，点击下面的“Edit...”，在控制台点击“add custom device”按钮添加设备并指定尺寸，在大屏上一般将默认的类型Mobile改为Desktop。注意，如果模拟电脑屏幕正常访问页面的情况，则高度要除去标签栏、地址栏、收藏夹等，具体尺寸可在控制台console下输入window.innerHeight即可看到。
 6. Have a nice day! 🍵
-
-#### 作者简介
-**关中刀客在青岛**，男，汉族。
-
-2008年毕业于青岛某不知名大学，随后从事过硬件电路、系统仪器、视频后期、淘宝多媒体服务、开花店、视频配乐等工作。
-接触编程时已经30岁，决定学前端时31岁，也由于年龄关系，家庭琐事繁多，业余学习时间有限，但对代码的热情和生活所迫仍奋斗在编程前线上。[更多介绍 >>](http://e-art.top/page/aboutMe.html)
-
-在这里也希望所有转行过来的IT小伙伴们能坚持下去，平时有空多学习多总结，三五年就能有小成，这些经验可以让自己着手做些喜欢的事，而不像我这样急促——很多业余时间不得不花在家里。
-
-欢迎访问我的博客：[关中刀客在青岛 *http://e-art.top*](http://e-art.top)
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md，Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
